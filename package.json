@@ -1,0 +1,16 @@
+{
+  "name": "demo-bot",
+  "version": "1.0.0",
+  "description": "echo bot to demonstrate machinabot A/B capabilities",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "machinabot-team",
+  "license": "ISC",
+  "dependencies": {
+    "bootbot": "^1.0.12",
+    "restify": "^4.3.0",
+    "util": "^0.10.3"
+  }
+}
